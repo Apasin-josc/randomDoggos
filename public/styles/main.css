@@ -1,0 +1,36 @@
+/* Header Styles */
+#header {
+    background-color: rgb(141, 188, 226);
+    padding: 20px;
+    text-align: center;
+    color: white;
+    font-size: 24px;
+}
+
+/* Footer Styles */
+#footer {
+    background-color: rgb(224, 15, 189);
+    padding: 10px;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+}
+
+/* Body Styles */
+#body {
+    background-color: bisque;
+    padding: 20px;
+    font-size: 20px;
+    color: #333; /* Text color for the body */
+    text-align: center; /* Center text horizontally */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; /* Make body fill the viewport height */
+}
+
+/* Background Styles */
+#background {
+    background-color: lightgray;
+}
